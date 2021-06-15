@@ -19,7 +19,7 @@ public class ExpenseManagerSystemTest {
 		//Thread.sleep(600000);
 
 		//Buggy Code
-		String expectedTitle = "Hello Page";
+		String expectedTitle = "Login Page";
 		
 		//Correct Code
 		//String expectedTitle = "Login page";
